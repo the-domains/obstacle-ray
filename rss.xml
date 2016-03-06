@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Obstacle Ray]]></title>
+        <description><![CDATA[Obstacle Ray]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Mar 2016 19:16:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[At this point in the 2015 Spartan World Championship elite heat, I questioned why I was doing this. ]]></title>
+            <description><![CDATA[<article><h1>At this point in the 2015 Spartan World Championship elite heat, I questioned why I was doing this. </h1><p>At this point in the 2015 Spartan World Championship elite heat, I questioned why I was doing this.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77ef9d37-7fc4-49ea-b931-b790376e7ba8.png"></article>]]></description>
+            <link>undefinedat-this-point-in-the-2015-spartan-world-championship-elite-h/index.html</link>
+            <guid isPermaLink="false">a453a4ac-b8be-4a85-9c1d-2df0b58fb6c2</guid>
+            <pubDate>Sun, 06 Mar 2016 19:15:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
