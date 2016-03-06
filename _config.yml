@@ -1,14 +1,26 @@
-layout_spectrum: 0.9581483
-typography_spectrum: 0.7161764
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.5767713
+  brandStrength: 1
   lightness: 0.1445695
-  brandStrength: 0.4243217
-  rhythmicContrast: 0.4142311
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#1D1638'
+    - '#F9F5D0'
+    - '#F20630'
+    - '#FADE1E'
+    - '#0D87B5'
+  rhythmicContrast: 0.4142311
+typography_spectrum: 0.3799283
+layout_spectrum: 1
 name: Obstacle Ray
