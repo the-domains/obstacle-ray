@@ -1,3 +1,7 @@
+name: Obstacle Ray
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.3799283
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5767713
-  brandStrength: 1
-  lightness: 0.1445695
   brandColors:
     - '#1D1638'
     - '#F9F5D0'
     - '#F20630'
     - '#FADE1E'
     - '#0D87B5'
+  brandStrength: 1
+  lightness: 0.1445695
+  saturation: 0.5767713
   rhythmicContrast: 0.4142311
-typography_spectrum: 0.3799283
-layout_spectrum: 1
-name: Obstacle Ray
+purpose: []
