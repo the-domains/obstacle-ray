@@ -1,6 +1,6 @@
 name: Obstacle Ray
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.59278
 typography_spectrum: 0.3799283
 collections:
   - index:
@@ -33,8 +33,8 @@ color:
     - '#F20630'
     - '#FADE1E'
     - '#0D87B5'
-  brandStrength: 1
+  brandStrength: 0.5625
   lightness: 0.1445695
-  saturation: 0.5767713
+  saturation: 0.25
   rhythmicContrast: 0.4142311
 purpose: []
