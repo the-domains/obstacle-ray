@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: I put together my own training plan for Polar Rush.
-datePublished: '2016-03-07T01:24:40.875Z'
-dateModified: '2016-03-07T01:24:40.178Z'
+datePublished: '2016-03-14T14:13:45.124Z'
+dateModified: '2016-03-14T14:09:40.959Z'
 author: []
 title: 'I put together my own training plan for Polar Rush. '
 sourcePath: _posts/2016-03-07-i-put-together-my-own-training-plan-for-polar-rush.md
@@ -24,10 +24,10 @@ _type: Article
 
 ---
 ## I put together my own training plan for Polar Rush.
-![Elite Wave Start: Mark Jones on my right eventually won.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9c28c2e-b866-441a-8d2d-37547698ab06.jpg)
-![Soft snow run](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4afd449-a937-4822-a5f6-a03fbdbaf380.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a9720fa-d2d4-4b06-a6df-61213db5a4cf.jpg)
-![Snow Tubing](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b84fbe3-0412-4aa1-b641-d2a948edc503.jpg)
+![Elite Wave Start: Mark Jones on my right eventually won.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3edf2dec0915499a61928cb9eb4c00115e2a6fc5.jpg)
+![Soft snow run](https://s3-us-west-2.amazonaws.com/the-grid-img/p/126640ababb1602ed814529ba3d396be9d6cb15f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/450bad3214dec2962974c742ec958f5ecbf58898.jpg)
+![Snow Tubing](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4314af2896d19509c41468a3983218b3032f81a5.jpg)
 
 ## Finished 2nd.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e0d5e4e95a878f86d149315e1f79c9f190f4293.jpg)
