@@ -1,7 +1,7 @@
 name: Obstacle Ray
 favicon: null
 layout_spectrum: 0.59278
-typography_spectrum: 0.3799283
+typography_spectrum: 0.15141
 collections:
   - index:
       path: /
