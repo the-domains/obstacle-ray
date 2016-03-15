@@ -6,10 +6,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Could only do 2 sets. Last night's 800 incline bucket carry stole some grip strength this morning. Also did some modifications. Instead of towel pull up, did herc hoist simulation at 95lbs."
-datePublished: '2016-03-15T14:48:16.994Z'
-dateModified: '2016-03-15T14:48:04.641Z'
+datePublished: '2016-03-15T15:20:05.534Z'
+dateModified: '2016-03-15T15:20:05.246Z'
 author: []
-title: ' '
+title: 'Week 1 Day 2: Grip Strength #2'
 sourcePath: _posts/2016-03-15-modified-rope-climb.md
 published: true
 authors: []
@@ -24,5 +24,3 @@ _type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d5a639259e959b7d2e8b18f923ebcd42734181a.png)
-
-#
