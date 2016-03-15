@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: This event kept me motivated over the winter to train.
-datePublished: '2016-03-15T15:37:47.784Z'
-dateModified: '2016-03-15T15:37:44.666Z'
+description: "This won't change!"
+datePublished: '2016-03-15T15:39:17.823Z'
+dateModified: '2016-03-15T15:39:09.834Z'
 author: []
 title: Polar Rush
 sourcePath: _posts/2016-03-07-i-put-together-my-own-training-plan-for-polar-rush.md
@@ -23,5 +23,5 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-This won't change!
+Polar Rush kept me motivated to keep training over the winter.
 ![Mark Jones on my right eventually won](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4782e96da93e4d0393fb7bb7f2acb13659eac98f.jpg)
