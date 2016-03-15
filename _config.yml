@@ -1,40 +1,40 @@
-name: Obstacle Ray
 favicon: null
-layout_spectrum: 0.59278
-typography_spectrum: 0.15141
+name: Obstacle Ray
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.3796993
+  brandStrength: 0.4375
+  lightness: 0.1445695
   brandColors:
     - '#1D1638'
     - '#F9F5D0'
     - '#F20630'
     - '#FADE1E'
     - '#0D87B5'
-  brandStrength: 0.4375
-  lightness: 0.1445695
-  saturation: 0.25
-  rhythmicContrast: 0.4142311
-purpose: []
+  rhythmicContrast: 0.6253133
+typography_spectrum: 0.15141
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.59278
+analytics:
+  twitter: null
+  google: null
+  facebook: null
