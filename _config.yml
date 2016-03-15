@@ -1,9 +1,7 @@
-favicon: null
 name: Obstacle Ray
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.59278
+typography_spectrum: 0.15141
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3796993
-  brandStrength: 0.4375
-  lightness: 0.1445695
   brandColors:
     - '#1D1638'
     - '#F9F5D0'
     - '#F20630'
     - '#FADE1E'
     - '#0D87B5'
-  rhythmicContrast: 0.6253133
-typography_spectrum: 0.15141
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.59278
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  brandStrength: 0.3125
+  lightness: 0.1445695
+  saturation: 0.5625
+  rhythmicContrast: 1
+purpose: []
