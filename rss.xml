@@ -4,8 +4,15 @@
         <description><![CDATA[Obstacle Ray]]></description>
         <link>http://obstacle.raym.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 23:54:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 23:57:03 GMT</lastBuildDate>
         <atom:link href="http://obstacle.raym.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kijiji run club]]></title>
+            <description><![CDATA[<article><h1>Kijiji run club</h1><p>Trying to encourage fellow office mates to get up during the day. 2KM lunch run through the King and Spadina area.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36bb1c92c85e7890834961fdf5209baff8268ff6.png"></article>]]></description>
+            <link>http://obstacle.raym.ca/kijiji-run-club/index.html</link>
+            <guid isPermaLink="false">4df90a54-0e83-4379-86b6-158f7f8bdba9</guid>
+            <pubDate>Wed, 16 Mar 2016 23:56:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Week 1 day 3 bonus: Fartlek home]]></title>
             <description><![CDATA[<article><h1>Week 1 day 3 bonus: Fartlek home</h1><p>After the speed run, did a 12km run home. Got tired around 8KM. Tried to push the last 600m, but right calf cramped. Didn't hydrate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb2c5219d787387c0b5434929653c49442992325.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://obstacle.raym.ca/i-have-only-done-one-spartan-race-before-the-championships/index.html</link>
             <guid isPermaLink="false">d0dedb60-1217-47a6-a9c5-e0af57c2bc0b</guid>
             <pubDate>Sun, 06 Mar 2016 19:18:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At this point in the 2015 Spartan World Championship elite heat, I questioned why I was doing this. ]]></title>
-            <description><![CDATA[<article><h1>At this point in the 2015 Spartan World Championship elite heat, I questioned why I was doing this. </h1><p>At this point in the 2015 Spartan World Championship elite heat, I questioned why I was doing this.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8502f6f276dab2e56ded2873e5a15cbdac9f9fb8.png"></article>]]></description>
-            <link>http://obstacle.raym.ca/at-this-point-in-the-2015-spartan-world-championship-elite-h/index.html</link>
-            <guid isPermaLink="false">a453a4ac-b8be-4a85-9c1d-2df0b58fb6c2</guid>
-            <pubDate>Sun, 06 Mar 2016 19:15:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
