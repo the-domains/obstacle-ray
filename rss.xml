@@ -4,8 +4,15 @@
         <description><![CDATA[Obstacle Ray]]></description>
         <link>http://obstacle.raym.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 14:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 14:56:46 GMT</lastBuildDate>
         <atom:link href="http://obstacle.raym.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Body calf raise]]></title>
+            <description><![CDATA[<article><h1>Body calf raise</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1822121-fe69-4bc2-a4c6-7eb25914883a.png"></article>]]></description>
+            <link>http://obstacle.raym.ca/body-calf-raise/index.html</link>
+            <guid isPermaLink="false">70008901-e987-4d11-b49a-ef2c875d6658</guid>
+            <pubDate>Fri, 18 Mar 2016 14:56:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Herc Hoist Simulation]]></title>
             <description><![CDATA[<article><h1>Herc Hoist Simulation</h1><p>I failed miserably at the world championships for the Herc Hoist. It felt like 200 lbs. So I'm working at simulating this. I'm at 90lbs, hoping to get to 150lbs.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/680a8bf8-b20d-4f71-a96f-05049551423d.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://obstacle.raym.ca/week-1-day-1-10k-time-trial/index.html</link>
             <guid isPermaLink="false">643e4c28-f48f-48df-aaec-763f9e3479df</guid>
             <pubDate>Mon, 14 Mar 2016 17:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Week 01 Day 01 Resting Heart Rate]]></title>
-            <description><![CDATA[<article><h1>Week 01 Day 01 Resting Heart Rate</h1><p>35 BPM Resting heart rate, 40 BPM average</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/710f1f2402dab186517fe12ee4ee006729031481.png"></article>]]></description>
-            <link>http://obstacle.raym.ca/week-01-day-01-resting-heart-rate/index.html</link>
-            <guid isPermaLink="false">332db71a-3d6c-407e-ba2f-59bb16e59514</guid>
-            <pubDate>Mon, 14 Mar 2016 14:04:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
