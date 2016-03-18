@@ -4,8 +4,15 @@
         <description><![CDATA[Obstacle Ray]]></description>
         <link>http://obstacle.raym.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 13:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 14:54:54 GMT</lastBuildDate>
         <atom:link href="http://obstacle.raym.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Herc Hoist Simulation]]></title>
+            <description><![CDATA[<article><h1>Herc Hoist Simulation</h1><p>I failed miserably at the world championships for the Herc Hoist. It felt like 200 lbs. So I'm working at simulating this. I'm at 90lbs, hoping to get to 150lbs.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/680a8bf8-b20d-4f71-a96f-05049551423d.png"></article>]]></description>
+            <link>http://obstacle.raym.ca/herc-hoist-simulation/index.html</link>
+            <guid isPermaLink="false">c3c416ad-e0ba-47f4-bed4-1ff7c6ad7d83</guid>
+            <pubDate>Fri, 18 Mar 2016 14:54:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ ]]></title>
             <description><![CDATA[<article><h1> </h1><p>Up and over obstacle repeats with bucket carry.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cdec44e-5604-473b-a55d-1afef9fd52f9.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://obstacle.raym.ca/week-01-day-01-resting-heart-rate/index.html</link>
             <guid isPermaLink="false">332db71a-3d6c-407e-ba2f-59bb16e59514</guid>
             <pubDate>Mon, 14 Mar 2016 14:04:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a295b0f3-76e3-4335-a0c1-f5d466cca647.jpg">]]></description>
-            <link>http://obstacle.raym.ca/c659745a-2a7c-4f70-9b78-5c48ac62bb49/index.html</link>
-            <guid isPermaLink="false">c659745a-2a7c-4f70-9b78-5c48ac62bb49</guid>
-            <pubDate>Tue, 08 Mar 2016 17:58:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
