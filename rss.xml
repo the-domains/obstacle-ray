@@ -4,8 +4,15 @@
         <description><![CDATA[Obstacle Ray]]></description>
         <link>http://obstacle.raym.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 01:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 01:13:04 GMT</lastBuildDate>
         <atom:link href="http://obstacle.raym.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rock climbing on pull up bar]]></title>
+            <description><![CDATA[<article><h1>Rock climbing on pull up bar</h1><p>I was surprised to see this at LA fitness in Burlington. Bonus! Used these for an unstructured core workout after the long run.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0618413b-274f-475a-8234-a4d4764937d5.jpg"></article>]]></description>
+            <link>http://obstacle.raym.ca/rock-climbing-on-pull-up-bar/index.html</link>
+            <guid isPermaLink="false">5624c3d9-b6d5-48f1-bd45-1a68aac041d3</guid>
+            <pubDate>Mon, 21 Mar 2016 01:13:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sulphur Springs Practice]]></title>
             <description><![CDATA[<article><h1>Sulphur Springs Practice</h1><p>I am running a couple of 25KM trail races. I've never run that distance before. So I've made a point to not only practice the distance, but also the trail.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fb565574c4abdffddade48ac8b7a312de4a50be.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://obstacle.raym.ca/week-1-day-3-bonus-fartlek-home/index.html</link>
             <guid isPermaLink="false">5abbef2a-31b1-4879-9de6-f7c88b3b59ee</guid>
             <pubDate>Wed, 16 Mar 2016 23:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Week 1 Day 3 bonus: Speed Run at 5KM 3:17/KM]]></title>
-            <description><![CDATA[<article><h1>Week 1 Day 3 bonus: Speed Run at 5KM 3:17/KM</h1><p>I like the Nike run club because there are a couple of runners that really push me to run faster. We did 400m repeats at alternating 5KM and mile pace. Targeted 3:25/km and 3:10/km and hit them. Felt decent, but couldn't kick in the last mile pace repeat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e4a2f0ed586d065a372449ab34d378771c14665.jpg"></article>]]></description>
-            <link>http://obstacle.raym.ca/week-1-day-3-bonus-speed-run-at-5km-317km/index.html</link>
-            <guid isPermaLink="false">09d6598c-b7ce-492e-86f4-5ff55df98bf1</guid>
-            <pubDate>Wed, 16 Mar 2016 19:40:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
