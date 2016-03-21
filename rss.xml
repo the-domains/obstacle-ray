@@ -4,8 +4,15 @@
         <description><![CDATA[Obstacle Ray]]></description>
         <link>http://obstacle.raym.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 14:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 01:11:05 GMT</lastBuildDate>
         <atom:link href="http://obstacle.raym.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sulphur Springs Practice]]></title>
+            <description><![CDATA[<article><h1>Sulphur Springs Practice</h1><p>I am running a couple of 25KM trail races. I've never run that distance before. So I've made a point to not only practice the distance, but also the trail.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fb565574c4abdffddade48ac8b7a312de4a50be.jpg"></article>]]></description>
+            <link>http://obstacle.raym.ca/sulphur-springs-practice/index.html</link>
+            <guid isPermaLink="false">786a16fe-20b0-4397-a608-019c90c44fee</guid>
+            <pubDate>Mon, 21 Mar 2016 01:10:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Steeper 400m Bucket Carry ]]></title>
             <description><![CDATA[<article><h1>Steeper 400m Bucket Carry </h1><p>Felt easier than the 1KM carry I do by my house.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62640086-8f13-4a7f-9e37-a52b97dd9120.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://obstacle.raym.ca/week-1-day-3-bonus-speed-run-at-5km-317km/index.html</link>
             <guid isPermaLink="false">09d6598c-b7ce-492e-86f4-5ff55df98bf1</guid>
             <pubDate>Wed, 16 Mar 2016 19:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Week 1 Day 2: Grip Strength #2]]></title>
-            <description><![CDATA[<article><h1>Week 1 Day 2: Grip Strength #2</h1><p>Could only do 2 sets. Last night's 800 incline bucket carry stole some grip strength this morning. Also did some modifications. Instead of towel pull up, did herc hoist simulation at 95lbs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d5a639259e959b7d2e8b18f923ebcd42734181a.png"></article>]]></description>
-            <link>http://obstacle.raym.ca/681983e0-b0f3-4274-ac5c-015308093cab/index.html</link>
-            <guid isPermaLink="false">681983e0-b0f3-4274-ac5c-015308093cab</guid>
-            <pubDate>Tue, 15 Mar 2016 15:20:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
