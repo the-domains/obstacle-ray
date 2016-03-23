@@ -4,8 +4,15 @@
         <description><![CDATA[Obstacle Ray]]></description>
         <link>http://obstacle.raym.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 21:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 17:28:59 GMT</lastBuildDate>
         <atom:link href="http://obstacle.raym.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Week 2 Day 2 - Nike Speed Run]]></title>
+            <description><![CDATA[<article><h1>Week 2 Day 2 - Nike Speed Run</h1><p>This is a 800m + 3x400m + 400m recovery + 800m + 3x400m + 400m recovery.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8695e34-1bb5-46a4-800d-783f93d7549a.jpg"></article>]]></description>
+            <link>http://obstacle.raym.ca/week-2-day-2-nike-speed-run/index.html</link>
+            <guid isPermaLink="false">b81f3be7-bc96-47f1-aa03-432f64db620e</guid>
+            <pubDate>Wed, 23 Mar 2016 17:27:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Week 2 Day 1: Warm up heart rate weird]]></title>
             <description><![CDATA[<article><h1>Week 2 Day 1: Warm up heart rate weird</h1><p>I felt like I couldn't push the pace. The good news was that my lungs were good, but felt my legs couldn't extend the stride as much. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5774fdbb215a57d27358de976444c09b22f71bb.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://obstacle.raym.ca/6b41899a-a6b9-4b41-9603-f7eb62809760/index.html</link>
             <guid isPermaLink="false">6b41899a-a6b9-4b41-9603-f7eb62809760</guid>
             <pubDate>Thu, 17 Mar 2016 13:41:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kijiji run club]]></title>
-            <description><![CDATA[<article><h1>Kijiji run club</h1><p>Kijiji started this club to encourage fellow office mates to get up during the day. 2KM lunch run through the King and Spadina area. Feel free to join the club if you are in the area. https://www.strava.com/clubs/kijiji</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36bb1c92c85e7890834961fdf5209baff8268ff6.png"></article>]]></description>
-            <link>http://obstacle.raym.ca/kijiji-run-club/index.html</link>
-            <guid isPermaLink="false">4df90a54-0e83-4379-86b6-158f7f8bdba9</guid>
-            <pubDate>Fri, 18 Mar 2016 15:03:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
