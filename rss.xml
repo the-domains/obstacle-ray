@@ -4,8 +4,15 @@
         <description><![CDATA[Obstacle Ray]]></description>
         <link>http://obstacle.raym.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 17:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 00:55:56 GMT</lastBuildDate>
         <atom:link href="http://obstacle.raym.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The only cake I really like]]></title>
+            <description><![CDATA[<article><h1>The only cake I really like</h1><p>Coffee cake from my mom. A good cheat :) I haven't talked about nutrition much. At this age, it's actually more than half the battle. My basic approach is eat a light dinner. I have found it helps me sleep better anyways.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcc2cc29-e9cd-4b5d-8d04-7409839c1929.jpg"></article>]]></description>
+            <link>http://obstacle.raym.ca/the-only-cake-i-really-like/index.html</link>
+            <guid isPermaLink="false">df139cad-af48-4afb-be1d-f26b4419b591</guid>
+            <pubDate>Sat, 26 Mar 2016 00:55:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Week 2 Day 2 - Nike Speed Run]]></title>
             <description><![CDATA[<article><h1>Week 2 Day 2 - Nike Speed Run</h1><p>This is a 800m + 3x400m + 400m recovery + 800m + 3x400m + 400m recovery.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8695e34-1bb5-46a4-800d-783f93d7549a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>urn:uuid:86e41e1a-877d-4be6-b65d-8dc4489371ec</link>
             <guid isPermaLink="false">8ec835b6-4a92-43d3-b5d4-9c56484f671d</guid>
             <pubDate>Thu, 17 Mar 2016 13:41:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Week 1 Day 4 Phase 1 strength takes too long]]></title>
-            <description><![CDATA[<article><h1>Week 1 Day 4 Phase 1 strength takes too long</h1><p>Phase 1 strength looks has:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19c81bdc87ede0e9ab6ced51920db21a17f144c5.png"></article>]]></description>
-            <link>http://obstacle.raym.ca/6b41899a-a6b9-4b41-9603-f7eb62809760/index.html</link>
-            <guid isPermaLink="false">6b41899a-a6b9-4b41-9603-f7eb62809760</guid>
-            <pubDate>Thu, 17 Mar 2016 13:41:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
