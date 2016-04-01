@@ -4,8 +4,15 @@
         <description><![CDATA[Obstacle Ray]]></description>
         <link>http://obstacle.raym.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 00:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 14:47:33 GMT</lastBuildDate>
         <atom:link href="http://obstacle.raym.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Winter is back]]></title>
+            <description><![CDATA[<article><h1>Winter is back</h1><p>Ice storm made monkey bars tricky. Woke up feeling tired in the morning. Felt OK out there. Did some up and over repeats. Burpees at the bottom, rig at the top.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee68db74-589c-462d-9e84-883f578fe637.jpg"></article>]]></description>
+            <link>http://obstacle.raym.ca/winter-is-back/index.html</link>
+            <guid isPermaLink="false">cfa43d39-e894-4aff-8e91-c80d0530e80c</guid>
+            <pubDate>Fri, 01 Apr 2016 14:46:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The only cake I really like]]></title>
             <description><![CDATA[<article><h1>The only cake I really like</h1><p>Coffee cake from my mom. A good cheat :) I haven't talked about nutrition much. At this age, it's actually more than half the battle. My basic approach is eat a light dinner. I have found it helps me sleep better anyways.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcc2cc29-e9cd-4b5d-8d04-7409839c1929.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://obstacle.raym.ca/herc-hoist-simulation/index.html</link>
             <guid isPermaLink="false">c3c416ad-e0ba-47f4-bed4-1ff7c6ad7d83</guid>
             <pubDate>Fri, 18 Mar 2016 14:54:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ ]]></title>
-            <description><![CDATA[<article><h1> </h1><p>Up and over obstacle repeats with bucket carry.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cdec44e-5604-473b-a55d-1afef9fd52f9.png"></article>]]></description>
-            <link>urn:uuid:86e41e1a-877d-4be6-b65d-8dc4489371ec</link>
-            <guid isPermaLink="false">8ec835b6-4a92-43d3-b5d4-9c56484f671d</guid>
-            <pubDate>Thu, 17 Mar 2016 13:41:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
