@@ -4,8 +4,15 @@
         <description><![CDATA[Obstacle Ray]]></description>
         <link>http://obstacle.raym.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 17:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 19:16:14 GMT</lastBuildDate>
         <atom:link href="http://obstacle.raym.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scarborough Bluffs]]></title>
+            <description><![CDATA[<article><h1>Scarborough Bluffs</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d96dd864900d9a25261b300b6901976fe003fbdb.jpg"></article>]]></description>
+            <link>http://obstacle.raym.ca/scarborough-bluffs/index.html</link>
+            <guid isPermaLink="false">efef7600-5c74-4f1f-9e33-46cf0a59a390</guid>
+            <pubDate>Fri, 01 Apr 2016 19:16:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spartan Workout Tour]]></title>
             <description><![CDATA[<article><h1>Spartan Workout Tour</h1><p>Alpha Obstacle Training hosted the Spartan training tour. After a good warmup, 3 8 minute intervals followed by obstacle training.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dee62c0d050205883c0bb3f72640e05a07f6a9e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://obstacle.raym.ca/steeper-400m-bucket-carry/index.html</link>
             <guid isPermaLink="false">789c4a53-f478-4e1c-a7f4-62739564f2a7</guid>
             <pubDate>Sat, 19 Mar 2016 14:55:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hill Repeats: 609m elevation gain]]></title>
-            <description><![CDATA[<article><h1>Hill Repeats: 609m elevation gain</h1><p>Surprised there's still snow. Felt pretty strong at the end. Had enough for a bucket carry. I should try this loop at a faster pace. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93278f856df5195396f2fa834eb9973a98c7496a.jpg"></article>]]></description>
-            <link>http://obstacle.raym.ca/hill-repeats-609m-elevation-gain/index.html</link>
-            <guid isPermaLink="false">4a5a5e86-ceea-438c-b381-b0ccc335d82f</guid>
-            <pubDate>Sat, 19 Mar 2016 14:53:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
