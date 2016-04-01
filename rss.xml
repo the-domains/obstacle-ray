@@ -4,8 +4,15 @@
         <description><![CDATA[Obstacle Ray]]></description>
         <link>http://obstacle.raym.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 14:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 14:49:18 GMT</lastBuildDate>
         <atom:link href="http://obstacle.raym.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ice storm made hill repeats tough]]></title>
+            <description><![CDATA[<article><h1>Ice storm made hill repeats tough</h1><p>Stepping into new ice or snow makes every step different and difficult. This was a laborious workout. My Icebug DTS2 shoes have made a big difference over my winter training. I've been able to get out more and faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99cc878a51d835cc5dcc72264caa6a2783b54c4e.png"></article>]]></description>
+            <link>http://obstacle.raym.ca/ice-storm-made-hill-repeats-tough/index.html</link>
+            <guid isPermaLink="false">aedcccec-63cf-4cd9-b99c-c2f502c5a4a8</guid>
+            <pubDate>Fri, 01 Apr 2016 14:49:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Winter is back]]></title>
             <description><![CDATA[<article><h1>Winter is back</h1><p>Ice storm made monkey bars tricky. Woke up feeling tired in the morning. Felt OK out there. Did some up and over repeats. Burpees at the bottom, rig at the top.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee68db74-589c-462d-9e84-883f578fe637.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://obstacle.raym.ca/body-calf-raise/index.html</link>
             <guid isPermaLink="false">70008901-e987-4d11-b49a-ef2c875d6658</guid>
             <pubDate>Fri, 18 Mar 2016 14:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Herc Hoist Simulation]]></title>
-            <description><![CDATA[<article><h1>Herc Hoist Simulation</h1><p>I failed miserably at the world championships for the Herc Hoist. It felt like 200 lbs. So I'm working at simulating this. I'm at 90lbs, hoping to get to 150lbs.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/680a8bf8-b20d-4f71-a96f-05049551423d.png"></article>]]></description>
-            <link>http://obstacle.raym.ca/herc-hoist-simulation/index.html</link>
-            <guid isPermaLink="false">c3c416ad-e0ba-47f4-bed4-1ff7c6ad7d83</guid>
-            <pubDate>Fri, 18 Mar 2016 14:54:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
