@@ -4,8 +4,15 @@
         <description><![CDATA[Obstacle Ray]]></description>
         <link>http://obstacle.raym.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 19:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 15:45:18 GMT</lastBuildDate>
         <atom:link href="http://obstacle.raym.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My grip strength is weak]]></title>
+            <description><![CDATA[<article><h1>My grip strength is weak</h1><p>I'm struggling finishing all of the sets in the program. This is a big area of improvement. I thought I'd be good at dead hangs, but I get tired throughout the workout.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c96447a-9006-4ce4-84a5-b2e5d09f625d.png"></article>]]></description>
+            <link>http://obstacle.raym.ca/my-grip-strength-is-weak/index.html</link>
+            <guid isPermaLink="false">9f29399d-c0c1-40c8-91ec-ad483ea1c0f4</guid>
+            <pubDate>Thu, 07 Apr 2016 15:45:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mystery Speed Run with Nike Run Club]]></title>
             <description><![CDATA[<article><h1>Mystery Speed Run with Nike Run Club</h1><p>The run took place in Queen's park. I've never run there before, but it has an 800m loop.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14b70c16ba42bada90b4fc5b2cdcda5c0e149a1e.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://obstacle.raym.ca/rock-climbing-on-pull-up-bar/index.html</link>
             <guid isPermaLink="false">5624c3d9-b6d5-48f1-bd45-1a68aac041d3</guid>
             <pubDate>Mon, 21 Mar 2016 01:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sulphur Springs Practice]]></title>
-            <description><![CDATA[<article><h1>Sulphur Springs Practice</h1><p>I am running a couple of 25KM trail races. I've never run that distance before. So I've made a point to not only practice the distance, but also the trail.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fb565574c4abdffddade48ac8b7a312de4a50be.jpg"></article>]]></description>
-            <link>http://obstacle.raym.ca/sulphur-springs-practice/index.html</link>
-            <guid isPermaLink="false">786a16fe-20b0-4397-a608-019c90c44fee</guid>
-            <pubDate>Mon, 21 Mar 2016 01:10:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
