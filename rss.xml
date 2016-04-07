@@ -4,8 +4,15 @@
         <description><![CDATA[Obstacle Ray]]></description>
         <link>http://obstacle.raym.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 15:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 15:49:09 GMT</lastBuildDate>
         <atom:link href="http://obstacle.raym.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pick Your Poison Trail Race Practice]]></title>
+            <description><![CDATA[<article><h1>Pick Your Poison Trail Race Practice</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dce08e8f80818139743e15aefb36e4c544825ef4.jpg"></article>]]></description>
+            <link>http://obstacle.raym.ca/pick-your-poison-trail-race-practice/index.html</link>
+            <guid isPermaLink="false">25d1b5a6-3332-4a34-8a70-496d957558ec</guid>
+            <pubDate>Thu, 07 Apr 2016 15:49:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My grip strength is weak]]></title>
             <description><![CDATA[<article><h1>My grip strength is weak</h1><p>I'm struggling finishing all of the sets in the program. This is a big area of improvement. I thought I'd be good at dead hangs, but I get tired throughout the workout.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c96447a-9006-4ce4-84a5-b2e5d09f625d.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://obstacle.raym.ca/week-2-day-1-warm-up-heart-rate-weird/index.html</link>
             <guid isPermaLink="false">70b11eb9-7bde-43c2-a31a-600113811b15</guid>
             <pubDate>Tue, 22 Mar 2016 21:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rock climbing on pull up bar]]></title>
-            <description><![CDATA[<article><h1>Rock climbing on pull up bar</h1><p>I was surprised to see this at LA fitness in Burlington. Bonus! Used these for an unstructured core workout after the long run.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0618413b-274f-475a-8234-a4d4764937d5.jpg"></article>]]></description>
-            <link>http://obstacle.raym.ca/rock-climbing-on-pull-up-bar/index.html</link>
-            <guid isPermaLink="false">5624c3d9-b6d5-48f1-bd45-1a68aac041d3</guid>
-            <pubDate>Mon, 21 Mar 2016 01:13:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
